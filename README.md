@@ -51,33 +51,30 @@ Designed for developers and site owners who want precision and performance witho
 
 You can install **TokenLink Menu Permissions** using one of three methods:
 
-### 1️⃣ Install from the WordPress Plugin Directory
-1. In your WordPress dashboard, go to **Plugins → Add New**.
-2. Search for **“TokenLink Menu Permissions”**.
-3. Click **Install Now**, then **Activate**.
-4. Navigate to **Appearance → Menus**.
+### 🧭 1. Install from the WordPress Plugin Directory
+1. In your WordPress dashboard, go to **Plugins → Add New**.  
+2. Search for **“TokenLink Menu Permissions”**.  
+3. Click **Install Now**, then **Activate**.  
+4. Navigate to **Appearance → Menus**.  
 5. Edit any menu item to configure its **visibility options**, then **Save Menu**.
 
-### 2️⃣ Upload the Plugin ZIP File
-1. Download the latest release from the [WordPress Plugin Directory](https://wordpress.org/plugins/tokenlink-menu-permissions/) or [GitHub Releases](https://github.com/jcbenton/tokenlink-menu-permissions/releases).
-2. In your WordPress dashboard, go to **Plugins → Add New → Upload Plugin**.
-3. Choose the downloaded `tokenlink-menu-permissions.zip` file and click **Install Now**.
-4. Click **Activate Plugin** once installed.
+### 📦 2. Upload the Plugin ZIP File
+1. Download the latest release from the [WordPress Plugin Directory](https://wordpress.org/plugins/tokenlink-menu-permissions/) or from [GitHub Releases](https://github.com/jcbenton/tokenlink-menu-permissions/releases).  
+2. In your WordPress dashboard, go to **Plugins → Add New → Upload Plugin**.  
+3. Choose the downloaded `tokenlink-menu-permissions.zip` file and click **Install Now**.  
+4. Click **Activate Plugin** once installed.  
 5. Go to **Appearance → Menus** and edit menu items as needed.
 
-### 3️⃣ Manual Installation (FTP or File Upload)
-1. Download and extract the plugin ZIP file.
-2. Upload the folder `tokenlink-menu-permissions` to your `/wp-content/plugins/` directory using FTP or your hosting control panel.
-3. Activate the plugin in **Plugins → Installed Plugins**.
-4. Go to **Appearance → Menus** to set visibility for each menu item.
+### 🛠️ 3. Manual Installation (FTP or File Upload)
+1. Download and extract the plugin ZIP file.  
+2. Upload the folder `tokenlink-menu-permissions` to your `/wp-content/plugins/` directory via FTP or file manager.  
+3. Activate the plugin from **Plugins → Installed Plugins**.  
+4. Go to **Appearance → Menus** to set visibility for each menu item.  
 
 ---
 
-## ⚙️ Configuration
-
-- Each menu item in **Appearance → Menus** will include new **visibility settings**.
-- Configure access for “Everyone,” “Logged-in users only,” “Logged-out users only,” or specific **user roles**.
-- Save your menu to apply changes.
+📥 **Latest GitHub Release:**  
+[https://github.com/jcbenton/tokenlink-menu-permissions/releases](https://github.com/jcbenton/tokenlink-menu-permissions/releases)
 
 ---
 
